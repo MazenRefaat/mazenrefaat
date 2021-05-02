@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mazen Refaat</h1>
 <h3 align="center">A passionate Frontend developer from Egypt</h3>
 
-### Languages and Tools:
 <h3 align="center"><b>Languages and Tools:</b></h3>
 
 <p align="center">
@@ -13,9 +12,10 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<div align="center">
-  [![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazenrefaat&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-  
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazenrefaat&show_icons=true&locale=en&theme=vue-dark&count_private=true" alt="mazenrefaat" />
+  </p>
+
 
 
