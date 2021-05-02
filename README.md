@@ -12,5 +12,3 @@
 
 [![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazenrefaat&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Mazen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mazenrefaat)](https://github.com/anuraghazra/github-readme-stats)
-
