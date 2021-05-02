@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazen Refaat</h1>
-<h3 align="center">A passionate Frontend developer from Egypt</h3>
+<h3 align="center">A passionate Frontend Engineer</h3>
 
 <h3 align="center"><b>Languages and Tools:</b></h3>
 
