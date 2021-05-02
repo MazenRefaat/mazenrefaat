@@ -10,6 +10,6 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazenrefaat&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazenrefaat&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mazenrefaat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Mazen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mazenrefaat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
