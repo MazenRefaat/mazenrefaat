@@ -16,7 +16,3 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mazenrefaat&show_icons=true&locale=en&theme=vue-dark&count_private=true&include_all_commits=true" alt="mazenrefaat" />
   </p>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MazenRefaat&theme=dark&layout=compact&count_private=true&range=last_year)](https://github.com/anuraghazra/github-readme-stats)
