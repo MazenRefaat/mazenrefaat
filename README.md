@@ -14,7 +14,7 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazenrefaat&show_icons=true&locale=en&theme=vue-dark&count_private=true" alt="mazenrefaat" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazenrefaat&show_icons=true&locale=en&theme=vue-dark&count_private=true&include_all_commits=true" alt="mazenrefaat" />
   </p>
 
 
